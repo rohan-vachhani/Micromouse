@@ -65,6 +65,8 @@ Image of the final bot:
 
 ![image](https://github.com/ChinmayK0607/Micromouse/assets/114411195/ec0dbd74-119c-4425-928d-b187f86c4505)
 
+![final](https://github.com/rohan-vachhani/Micromouse/assets/130735455/178799bd-3dd9-44f8-a148-3a84aaa71c00)
+
 
 ## Hardware Explanation
 Here is a both high level and low level diagram for understanding of the hardware implementation
